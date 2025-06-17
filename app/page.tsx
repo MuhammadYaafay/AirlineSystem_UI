@@ -21,7 +21,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="relative">
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40 z-10" />
-          <div className="h-[600px] bg-cover bg-center" style={{ backgroundImage: "url('/images/hero-bg.jpg')" }} />
+          <div className="h-[600px] bg-cover bg-center" style={{ backgroundImage: "url('https://img.freepik.com/free-photo/airport-terminal_1417-1456.jpg')" }} />
           <div className="container absolute inset-0 z-20 flex items-center">
             <div className="max-w-2xl space-y-4">
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl xl:text-6xl">
